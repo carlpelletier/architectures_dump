@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://github.com/carlpelletier/architectures_dump.git/posts/my-first-post/</loc>
     <lastmod>2022-09-30T12:19:25-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://github.com/carlpelletier/architectures_dump.git/</loc>
     <lastmod>2022-09-30T12:19:25-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://github.com/carlpelletier/architectures_dump.git/posts/</loc>
     <lastmod>2022-09-30T12:19:25-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://github.com/carlpelletier/architectures_dump.git/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://github.com/carlpelletier/architectures_dump.git/tags/</loc>
   </url>
 </urlset>
