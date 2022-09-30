@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/carlpelletier/architectures_dump.git'
+languageCode = 'fr-ca'
+title = 'Dump du cerveau de Carl Pelletier'
+theme = "ananke"
